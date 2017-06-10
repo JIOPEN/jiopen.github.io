@@ -1679,7 +1679,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e3d1ff;
+  background: #ddd5ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2988,6 +2988,6 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("http://i1.buimg.com/597144/400e85ff4eda2c7a.jpg");
   background-attachment: fixed;
 }
